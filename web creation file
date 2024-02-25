@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <div>
+        <h2>Harsh m s </h2>
+    <pre>    Iam basically a front end devloper to design the web page<br>
+    iam good in basics of  programming language like c,c++,phyton<br>
+    so iam very eager to learn new things easily i can copup <br>
+    you can see my profile by link below<br>
+    </div>
+    <h3>*QUALIFICATION</h3>
+    <a href="education.html" target="_main">Education</a><br>
+    <h3>*EXPERIENCE</h3>
+    <a href="experience.html" target="_main2">experience</a><br>
+    <h3>*SEARCH ENGINE</h3>
+    <a href="https://www.google.co.in/" target="_main3">Google</a><br><br><br>
+</pre>
+
+</body>
+
+</html>
